@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/maudi-web/static/js/main.0229d878.js",
+    "main.js": "/maudi-web/static/js/main.1a46783f.js",
     "static/js/587.4a06a755.js": "/maudi-web/static/js/587.4a06a755.js",
     "static/media/MaterialCommunityIcons.ttf": "/maudi-web/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/maudi-web/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
@@ -14,11 +14,11 @@
     "favicon-16.png": "/maudi-web/favicon-16.png",
     "manifest.json": "/maudi-web/manifest.json",
     "serve.json": "/maudi-web/serve.json",
-    "main.0229d878.js.map": "/maudi-web/static/js/main.0229d878.js.map",
+    "main.1a46783f.js.map": "/maudi-web/static/js/main.1a46783f.js.map",
     "587.4a06a755.js.map": "/maudi-web/static/js/587.4a06a755.js.map"
   },
   "entrypoints": [
     "static/js/587.4a06a755.js",
-    "static/js/main.0229d878.js"
+    "static/js/main.1a46783f.js"
   ]
 }
